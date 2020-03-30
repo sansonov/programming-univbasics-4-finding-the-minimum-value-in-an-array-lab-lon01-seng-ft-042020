@@ -7,7 +7,7 @@ def find_min_value(array)
       a = array[i]
     end
     i+=1
-    binding.pry
+    #binding.pry
   end
   return a
 end
